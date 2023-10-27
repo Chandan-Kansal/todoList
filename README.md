@@ -1,5 +1,5 @@
 Technologies Used
-HTML
-CSS
-JavaScript
-ReactJS
+#HTML
+#CSS
+#JavaScript
+#ReactJS
